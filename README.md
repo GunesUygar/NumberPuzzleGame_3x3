@@ -1,1 +1,1 @@
-# NmuberPuzzleGame_3x3
+# NumberPuzzleGame_3x3
